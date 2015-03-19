@@ -45,3 +45,6 @@ cacheSolve <- function(x = matrix(x), ...) {
   x$setinverse(I)
   I
 }
+
+# Explanations were partly from following link and some by modifying sentences.
+# https://class.coursera.org/rprog-012/human_grading/view/courses/973493/assessments/3/submissions
